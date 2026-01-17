@@ -274,7 +274,7 @@ The residue classes modulo $n$ ($\mathbb{Z}_n$) form a **partition** of the inte
 #### ❓ The Problem
 > [!question] Statement
 > Define $\mathbb{Z}_{13}$ as the arithmetic modulo 13. Consider the following equation:
-> $$5x + 4 \equiv 28x +2x \pmod{13}$$
+> $$5x + 4 \equiv 2 +2x \pmod{13}$$
 > Rewrite this in $\mathbb{Z}_{13}$.
 
 > [!done]- Solution
