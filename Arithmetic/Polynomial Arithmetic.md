@@ -237,11 +237,9 @@ Thus, one factor must be degree 0 (a constant). Since it cannot be split into tw
 
 #### ❓ The Problem
 > [!question] Statement
-> Show that if a polynomial $P \in \mathbb{R}[X]$ of degree $\deg(P) = m$ has less than $m$ roots, it must have a prime factor $F$ such that $\deg(F) > 1$.
+> Consider $P = x^7 + 3x^6 + 3x^5 + x^4 - x^3 - 3x^2 - 3x - 1$ in $\mathbb{Z}_6[X]$. Find the set of all roots $R_0(P)$ and then compute the prime factorization of $P$.
 
 > [!done]- Solution
- > Consider $P = x^7 + 3x^6 + 3x^5 + x^4 - x^3 - 3x^2 - 3x - 1$ in $\mathbb{Z}_6[X]$. Find the set of all roots $R_0(P)$ and then compute the prime factorization of $P$.
-> 
 > Let's use Sage to find the roots:
 > 
 > ```python
